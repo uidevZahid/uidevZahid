@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @uidevZahid
 - 👀 I’m interested in Design for User
-- 🌱 I’m currently learning Advance JavaScript
+- 🌱 I’m currently learning advanced JavaScript
 - 💞️ I’m looking to collaborate on UI UX design and Fontend Developement
-- 📫 How to reach me "Zhs1048@gmail.com"
+- 📫 How to reach me "zhs1048@gmail.com"
 
 
 <!---
